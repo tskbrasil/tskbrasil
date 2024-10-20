@@ -35,7 +35,7 @@ Este script é destinado apenas para fins educacionais e de pesquisa. O uso dest
 Desenvolvido por iUnknown owner
 Atualizado por wyzop__
 
-[![Discord](https://img.shields.io/discord/1296902587861434428?color=7289DA&logo=discord&logoColor=white)](https://discord.gg/DWKb32QKkJ)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DWKb32QKkJ)
 
 ```js
 // ==UserScript==
